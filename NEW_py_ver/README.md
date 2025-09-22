@@ -26,3 +26,6 @@ You can specify the model as a parameter contained in *test.py*. At the moment, 
 ### Used Libraries
 python v3.7.6 <br>
 torch==1.7.0 <br>
+
+### Installation
+Navigate (`cd`) to the folder containing `requirements.txt` then run `pip install -r requirements.txt`

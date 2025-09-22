@@ -16,5 +16,3 @@ They are based on ipynb files and easier to play with interactively.
 They are the updated codes, newly structured in 2021. <br>
 They are based on py files, so that they can be run on servers more easily.
 
-dude 
-
